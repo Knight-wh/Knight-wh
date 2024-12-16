@@ -12,4 +12,6 @@ Wish me luck. 😙
 - 🌱 I’m currently learning about Map, CG and anything else that interests me!
 - ⚡ Fun fact: I have nothing.
 
+Here is one of my favourite quotes from Steve jobs.
+
 > The journey is the reward.
