@@ -11,6 +11,7 @@ Wish me luck. 😙
 - 🔭 I’m currently working on my personal project.
 - 🌱 I’m currently learning about Map, CG and anything else that interests me!
 - ⚡ Fun fact: I have nothing.
+- 💻 JS, TS, C++, Rust.
 
 Here is one of my favourite quotes from Steve jobs.
 
